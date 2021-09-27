@@ -6,7 +6,7 @@ The firm Pewlett Hackard tasked Bobby and us to help analyze the employee databa
 
 ## Results
 
-Upon analysis of the employee database, we identify key components through SQL analysis;
+Upon analysis of the employee database, we identify key components through SQL analysis while examining relationships highlighted in the table below;
 
 ![](Queries/EmployeeDB.png)
 
