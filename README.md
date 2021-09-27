@@ -8,6 +8,8 @@ The firm Pewlett Hackard tasked Bobby and us to help analyze the employee databa
 
 Upon analysis of the employee database, we identify key components through SQL analysis;
 
+![](Queries/EmployeeDB.png)
+
 ![](Queries/Retiring_Employees.PNG)
 
 1. The analysis identifies 57,668 employees retiring over the age of 60.
