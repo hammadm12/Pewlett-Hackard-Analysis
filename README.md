@@ -8,7 +8,7 @@ The firm Pewlett Hackard tasked Bobby and us to help analyze the employee databa
 
 Upon analysis of the employee database, we identify key components through SQL analysis;
 
-![](Data/Retiring_Employees.PNG)
+![](Queries/Retiring_Employees.PNG)
 
 1. The analysis identifies 57,668 employees retiring over the age of 60.
 2. We see that 29,414 employees alone are Senior Engineers and for a technology company, this is a key area that should be stressed and focused on as a large number of experienced technical workers are leaving.
