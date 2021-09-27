@@ -21,3 +21,5 @@ Upon analysis of the employee database, we identify key components through SQL a
 
 1. According to the analysis, the total number of retiring employees via SQL is 90,398. It is a substantial portion of the Pewlett Hackard firm.
 2. Despite the large number of people retiring, there are a handful (1,549) employees that are qualified to be mentors under the proposed program.
+
+![](Queries/Employee_Eligibility.png)
